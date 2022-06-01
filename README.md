@@ -1,2 +1,2 @@
 # Twitter_Scrapper
-## Covid 19 case analysis in USA
+## Covid 19 vaccine sentiment analysis in USA
